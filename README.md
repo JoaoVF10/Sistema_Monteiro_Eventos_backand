@@ -5,7 +5,7 @@ O **Sistema Monteiro Eventos Backend** é uma aplicação desenvolvida em **Spri
 - ✅ Controle de ponto de funcionários  
 - ✅ Registro e gerenciamento de estoque para almoxarifado  
 
-Este projeto busca oferecer uma solução prática e escalável para empresas que necessitam organizar seus processos internos de forma eficiente.
+Este projeto busca oferecer uma solução prática e escalável para que a empresa consiga organizar seus processos internos de forma eficiente.
 
 ---
 
