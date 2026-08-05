@@ -10,8 +10,9 @@ Este projeto busca oferecer uma solução prática e escalável para que a empre
 ---
 
 ## 👨‍💻 Desenvolvedores
-- **João Vitor** → Desenvolvimento e Criação   
-- **Emilly** → Ideia, Produção Audiovisual, Design Gráfica e Desenvolvimento  
+  
+- **Emilly** → Ideia, Produção Audiovisual, Design Gráfica e Desenvolvimento
+- - **João Vitor** → Desenvolvimento e Criação 
 
 ---
 
