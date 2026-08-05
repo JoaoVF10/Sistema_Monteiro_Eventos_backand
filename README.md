@@ -12,7 +12,7 @@ Este projeto busca oferecer uma solução prática e escalável para que a empre
 ## 👨‍💻 Desenvolvedores
   
 - **Emilly** → Ideia, Produção Audiovisual, Design Gráfica e Desenvolvimento
-- - **João Vitor** → Desenvolvimento e Criação 
+-  **João Vitor** → Desenvolvimento e Criação 
 
 ---
 
